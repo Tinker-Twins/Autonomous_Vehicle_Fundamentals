@@ -2,4 +2,4 @@
  
 This repository hosts the algorithmic concepts required for the development of software stack for autonomous cars. The code snippets can be used to develop firmwares for driverless cars in the future.
 
-<b>Note:</b> The current snippets are a part of research and educational activities and are not ready to be deployed on any vehicle.
+<b>Note:</b> The current snippets are outcomes of research and educational activities and are not ready to be deployed on any vehicle.
