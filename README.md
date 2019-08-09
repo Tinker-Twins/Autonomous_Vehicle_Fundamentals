@@ -1,4 +1,4 @@
-# Autonomous Car Algorithms 1
+# Autonomous Car Algorithms
  
 This repository hosts the algorithmic concepts required for the development of software stack for autonomous cars. The code snippets can be used to develop firmwares for driverless cars in the future.
 
